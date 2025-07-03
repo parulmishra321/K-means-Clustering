@@ -126,7 +126,7 @@ pip install numpy matplotlib seaborn scikit-learn
 
 ## 🧑‍🎓 Author
 
-**Your Name**
+**Parul Mishra**
 [GitHub](https://github.com/parulmishra321) 
 
 ---

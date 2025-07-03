@@ -96,15 +96,6 @@ README.md
 
 ---
 
-## 📷 Sample Visualizations
-
-| Manual K-Means                         | Sklearn KMeans                          |
-| -------------------------------------- | --------------------------------------- |
-| ![Manual Clusters](path/to/image1.png) | ![Sklearn Clusters](path/to/image2.png) |
-
-> *(Replace above image paths with actual screenshots from your output if uploading to GitHub)*
-
----
 
 ## 📈 How to Use
 
@@ -136,7 +127,7 @@ pip install numpy matplotlib seaborn scikit-learn
 ## 🧑‍🎓 Author
 
 **Your Name**
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourusername)
+[GitHub](https://github.com/parulmishra321) 
 
 ---
 
@@ -146,10 +137,3 @@ If you found this project useful, consider giving it a ⭐️ to support the pro
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like me to create this as a `README.md` file or need help adding images or hosting it on GitHub.
